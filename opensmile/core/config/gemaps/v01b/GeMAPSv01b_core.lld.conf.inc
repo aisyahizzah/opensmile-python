@@ -50,8 +50,8 @@ instance[gemapsv01b_fftmp25].type=cFFTmagphase
 reader.dmLevel=wave
 writer.dmLevel=gemapsv01b_frame25
 \{\cm[bufferModeRbConf]}
-frameSize = 0.020
-frameStep = 0.010
+frameSize = 0.240
+frameStep = 0.120
 frameCenterSpecial = left
 
 [gemapsv01b_win25:cWindower]
